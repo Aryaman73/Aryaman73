@@ -4,7 +4,7 @@
 
 🏫 University of Waterloo, Computer Engineering '24
 
-💻 C++, Java, Python 3
+💻 React, C++, Java, Python
 
 😄 Pronouns: He/Him
 
