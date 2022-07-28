@@ -1,17 +1,20 @@
 ### Heya! 👋
 
-<img align = "right" alt="GIF" src="https://media.giphy.com/media/mRh4cLIYhrs9G/giphy.gif" description="test"/>
 
 🏫 University of Waterloo, Computer Engineering '24
 
-💻 React, C++, Java, Python
+💻 React, C++, Java, Python, Ruby (on Rails), 
 
 😄 Pronouns: He/Him
 
 💬 Always looking to talk tech, teamup for Hackathons or work on projects!
 
 <br>
-<p align = "right"> <i>  👆 me trying to remember how to exit vim </i> </p>
+<p align = "center">
+<img alt="GIF" src="https://media.giphy.com/media/mRh4cLIYhrs9G/giphy.gif" description="test"/>
+</p>
+
+<p align = "center"> <i>  👆 me trying to remember how to exit vim </i> </p>
 
 
 
