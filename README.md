@@ -11,7 +11,7 @@
 💬 Always looking to talk tech, teamup for Hackathons or work on projects!
 
 <br>
-<p align = "right"> <i>  👆 me trying to remember how to exit vim  ‎‎‎‎‎‎‎‎ </i> </p>
+<p align = "right"> <i>  👆 me trying to remember how to exit vim </i> </p>
 
 
 
