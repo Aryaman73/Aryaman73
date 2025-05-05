@@ -1,9 +1,10 @@
 ### Heya! 👋
 
+💼 SDE @ AWS
 
 🏫 University of Waterloo, Computer Engineering '24
 
-💻 React, C++, Java, Python, Ruby (on Rails), 
+💻 React, Java, C++, Python, Ruby (on Rails)
 
 😄 Pronouns: He/Him
 
