@@ -1,14 +1,12 @@
 ### Heya! 👋
 
-💼 SDE @ AWS
+💼 SWE @ Ramp
 
 🏫 University of Waterloo, Computer Engineering '24
 
 💻 React, Java, C++, Python, Ruby (on Rails)
 
 😄 Pronouns: He/Him
-
-💬 Always looking to talk tech, teamup for Hackathons or work on projects!
 
 <br>
 <p align = "center">
